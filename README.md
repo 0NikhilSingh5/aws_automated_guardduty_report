@@ -1,4 +1,4 @@
-# AWS GuardDuty Report Generator
+# <img src = "https://skillicons.dev/icons?i=aws"/> GuardDuty Report Generator
 
 ## Overview
 
